@@ -1,3 +1,11 @@
+html {
+    
+}
 p {
     color: aqua;
+}
+
+p:hover {
+    color:black;
+    background-color: aqua;
 }
